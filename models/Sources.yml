@@ -1,0 +1,6 @@
+sources:
+  - name: Demo
+    database: Demo
+    schema: Demo_Schema
+    tables:
+      - name: WEATHER
